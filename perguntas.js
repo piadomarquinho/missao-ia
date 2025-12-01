@@ -75,7 +75,6 @@ export const perguntas = [
         }
     ]
 },
-{
     enunciado: "Considerando o imenso alcance das redes sociais, é crucial debater qual o verdadeiro papel da influência digital na promoção de mudanças sociais e políticas significativas.",
     alternativas:[
         {
