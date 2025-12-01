@@ -75,6 +75,7 @@ export const perguntas = [
         }
     ]
 },
+{
     enunciado: "Considerando o imenso alcance das redes sociais, é crucial debater qual o verdadeiro papel da influência digital na promoção de mudanças sociais e políticas significativas.",
     alternativas:[
         {
@@ -89,3 +90,8 @@ export const perguntas = [
             afirmacao: [
                  "A influência digital frequentemente leva ao ativismo de sofá (slacktivism), pois o engajamento social é majoritariamente superficial, emocional e de baixo custo, o que desvia energia e recursos de formas de ativismo mais significativas e estruturais, resultando em uma ilusão de mudança sem impacto real a longo prazo."
             ],
+            proxima: 10,
+        }
+    ]
+},
+];
